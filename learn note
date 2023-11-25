@@ -1,0 +1,70 @@
+1, flex basic over view done
+Ans: Display flex, flex direction, justyfy content: flexstart, center, flexend then 
+align items start, center, end then flex grow shrink px order..
+
+2, css selector, style , properties
+Ans: Element selector, id selector, class selector, universal selector, grop selector
+Ans: CSS Colors, Fonts and Sizes, CSS Border, CSS Padding, CSS Margin, Link to External CSS
+only properties dobut because whic one is more impartant
+
+3, Emmet in vishual studio
+Ans: id div creat #id enter , class div .class , h1*4  four h1, un>li*4 ul in four list
+
+need doubt 
+
+class name ?
+div part how?
+resolution px how to ?
+
+https://colorhunt.co/ color parrten
+https://fontawesome.com/ icons
+https://cdnjs.com/libraries/font-awesome fontawesomecd link icon link
+https://www.pexels.com/royalty-free-images/ images
+
+
+
+
+Demo1 practice link
+https://www.w3schools.com/w3css/tryw3css_templates_architect.htm
+
+
+Demo2 practice link 
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+Demo3 practice link 
+https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm#home
+
+
+
+Gitup how to use 
+
+insert>Add>commit>push
+
+create file U mean untracked file
+
+git add filename (goes to stageing area)
+
+git commit -m "Mention Last update text"
+
+git status if you check statu git this tag once commit 
+
+git push origin main filename (upload or delete)
+
+git pull mean last updated for cloud update
+
+cd .. chage back moved
+cd file or folder name from move
+
+git init mean initial empty git reprosetry
+
+git add. all modyfied files moved in stage area
+
+
+
+
+
+
+
+
+
+
